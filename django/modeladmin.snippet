@@ -1,5 +1,4 @@
-snippet modeladmin
-	class ${1:ModelName}Admin(admin.ModelAdmin):
-		${2}
-	
-	admin.site.register($1, $1Admin)
+class ${1:ModelName}Admin(admin.ModelAdmin):
+	${2}
+
+admin.site.register($1, $1Admin)
