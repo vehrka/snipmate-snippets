@@ -1,5 +1,5 @@
 ## Description
-A collection of snippets for use with [snipmate(http://github.com/msanders/snipmate.vim)]
+A collection of snippets for use with [snipmate](http://github.com/msanders/snipmate.vim)
 
 This repository is far more complete than the base snippets shipped with snipmate and is actively being contributed to.
 
@@ -12,8 +12,8 @@ and this seems to be the most complete.
 ## Installation
 
 This is intended to replace the snippets that ship with snipmate as most (all) are reproduced here and will collide.
-I have a [fork(http://github.com/spf13/snipmate.vim)] of snipmate that simply removes the original snippets, 
-but is otherwise identical to the original [snipmate(http://github.com/msanders/snipmate.vim)]
+I have a [fork](http://github.com/spf13/snipmate.vim) of snipmate that simply removes the original snippets, 
+but is otherwise identical to the original [snipmate](http://github.com/msanders/snipmate.vim)
 
 	rm ~/.vim/snippets
 	git clone https://spf13@github.com/spf13/snipmate.vim.git
@@ -21,7 +21,7 @@ but is otherwise identical to the original [snipmate(http://github.com/msanders/
 
 ### Alt. Installation
 I have a complete vim configuration which includes both snipmate and these snipets as git submodules.
-It is available via github at [spf13-vim(http://github.com/spf13/spf13-vim)].
+It is available via github at [spf13-vim](http://github.com/spf13/spf13-vim).
 
 It makes use of patogen to keep a very organized and clean .vim directory.
 
