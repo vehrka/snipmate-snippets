@@ -4,7 +4,7 @@ A collection of snippets for use with [snipmate](http://github.com/msanders/snip
 This repository is far more complete than the base snippets shipped with snipmate and is actively being contributed to.
 
 There are over 50 contributors creating snippets for a variety of languages. I have done my best to pull
-together the best of them and package them together here. 
+together the best of them and package them together here. The original was created by [Scrooloose](http://github.com/scrooloose/snipmate-snippets).
 
 There isn't an emphasis on a particular language, though it would seem most snippet users are ruby users,
 and this seems to be the most complete.
