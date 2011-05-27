@@ -9,6 +9,11 @@ together the best of them and package them together here. The original was creat
 There isn't an emphasis on a particular language, though it would seem most snippet users are ruby users,
 and this seems to be the most complete.
 
+## Approach
+Each of the snippets is in a subirectory organized by filetype. 
+Subsets are organized by filetype-set (and will also be loaded with filetype)
+Exceptions are made when a given snippet trigger contains a character that isn't filesystem friendly such as '*=>:' for example.
+
 ## Installation
 
 This is intended to replace the snippets that ship with snipmate as most (all) are reproduced here and will collide.
